@@ -40,11 +40,11 @@ body {
   }
   
   button {
-    background-color: #007bff;
-    color: white;
+    background-color:blue;
+    color: black;
     border: none;
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 7px;
     margin-top: 10px;
     cursor: pointer;
   }
